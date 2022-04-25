@@ -1,0 +1,15 @@
+html {
+    margin-top: 50px;
+}
+#piechart_3d {
+    width: 700px;
+    height: 300px;
+    position: fixed;
+    top: 100px;
+    left: 50%;
+}
+
+#curve_chart {
+    width: 700px;
+    height: 350px;
+}
